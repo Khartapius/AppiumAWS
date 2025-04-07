@@ -3,7 +3,7 @@
     "prettier": "^3.2.5"
   },
   "scripts": {
-    "test": "mvn test -PRegression --timeout 30000"
+    "test": "mvn test -PRegression"
   }
 }
 
