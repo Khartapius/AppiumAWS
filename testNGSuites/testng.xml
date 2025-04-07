@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="com.Hubtel.TestUtils.Listeners"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="D:/12_Automation/Appium Project/mobile-automation-tests">
+        <classes>
+
+<!--                        <class name="com.Hubtel.Login.Login">-->
+<!--                            <methods>-->
+<!--                                <include name="login"/>-->
+<!--                            </methods>-->
+<!--                        </class>-->
+
+<!--            <class name="com.Hubtel.Send_Money.Send_Money_Telecel">-->
+<!--                <methods>-->
+<!--                    <include name="Send_Money"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+
+                        <class name="com.Hubtel.Car_Insurance.carInsuranceNewSticker">
+                            <methods>
+                                <include name="carInsurance_NewSticker"/>
+                            </methods>
+                        </class>
+
+<!--                        <class name="com.Hubtel.Car_Insurance.Car_Insurance">-->
+<!--                            <methods>-->
+<!--                                <include name="Car_Insurance"/>-->
+<!--                            </methods>-->
+<!--                        </class>-->
+
+<!--                        <class name="com.Hubtel.Homepage.HomePageAndroid">-->
+<!--                            <methods>-->
+<!--                                <include name="Home_Page"/>-->
+<!--                            </methods>-->
+<!--                        </class>-->
+
+<!--                        <class name="com.Hubtel.ADB.InternetDataAndroid">-->
+<!--                            <methods>-->
+<!--                                <include name="Internet_Data"/>-->
+<!--                            </methods>-->
+<!--                        </class>-->
+
+<!--                        <class name="com.Hubtel.ADB.AirtimeAndroid">-->
+<!--                            <methods>-->
+<!--                                <include name="Airtime"/>-->
+<!--                            </methods>-->
+<!--                        </class>-->
+
+<!--                        <class name="com.Hubtel.Send_Money.Send_MoneyAndroid">-->
+<!--                            <methods>-->
+<!--                                <include name="Send_Money"/>-->
+<!--                            </methods>-->
+<!--                        </class>-->
+
+
+<!--                        <class name="com.Hubtel.Utility_Bills.utilityBills">-->
+<!--                            <methods>-->
+<!--                                <include name="UtilityBills"/>-->
+<!--                            </methods>-->
+<!--                        </class>-->
+
+
+
+<!--            <class name="com.Hubtel.All_Meals.All_MealsAndroid_Specific">-->
+<!--                <methods>-->
+<!--                    <include name="All_Meals"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+
+<!--            <class name="com.Hubtel.All_Groceries.Circle_All_Groceries">-->
+<!--                <methods>-->
+<!--                    <include name="Circle_All_Groceries"/>-->
+<!--                    <include name="Pharmacy"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--                                                <class name="com.Hubtel.Profile.Profile">-->
+<!--                                                    <methods>-->
+<!--                                                        <include name="Profile"/>-->
+<!--                                                    </methods>-->
+<!--                                                </class>-->
+
+
+<!--                                                            <class name="com.Hubtel.Melcom.melcom">-->
+<!--                                                                <methods>-->
+<!--                                                                    <include name="Melcom"/>-->
+<!--                                                                </methods>-->
+<!--                                                            </class>-->
+
+
+
+
+<!--            <class name="com.Hubtel.Log_Out.logOut">-->
+<!--                <methods>-->
+<!--                    <include name="LogOut"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+
+        </classes>
+    </test>
+</suite>

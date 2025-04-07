@@ -1,0 +1,169 @@
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: null-testcase-0
+[percy] Snapshot taken: null-testcase-1
+[percy] Snapshot taken: com.Hubtel.Login.Login-login-testcase-0
+[percy] Error: Cannot verify until tile is uploaded (sha: f5fb0f5d7ddbd60060ebbb017c53c88d5502871c53ea318a97e334dbdc442939)
+[percy] Snapshot taken: com.Hubtel.Login.Login-login-testcase-1
+[percy] Error: Cannot verify until tile is uploaded (sha: ab5be7fc13f54784f540b35c5d36a77ba4d25f32090f162b695fc30fcb5ffe5d)
+[percy] Snapshot taken: null-testcase-0
+[percy] Encountered an error uploading snapshot: null-testcase-0
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Detected error for Snapshot: null-testcase-0
+[percy] Failure: Upload snapshot failure
+[percy] Failure Reason: Some snapshot or component uploads failed.
+[percy] Suggestion: Snapshot Error: null-testcase-0: 
+ [] 
+
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/common-issue/common-errors/upload-snapshot-failure
+[percy] Snapshot taken: null-testcase-1
+[percy] Encountered an error uploading snapshot: null-testcase-1
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Detected error for Snapshot: null-testcase-1
+[percy] Failure: Upload snapshot failure
+[percy] Failure Reason: Some snapshot or component uploads failed.
+[percy] Suggestion: Snapshot Error: null-testcase-1: 
+ [] 
+
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/common-issue/common-errors/upload-snapshot-failure
+[percy] Snapshot taken: com.Hubtel.Car_Insurance.carInsuranceNewSticker-carInsurance_NewSticker-testcase-0
+[percy] Snapshot taken: com.Hubtel.Car_Insurance.carInsuranceNewSticker-carInsurance_NewSticker-testcase-1
+[percy] Snapshot taken: null-testcase-0
+[percy] Encountered an error uploading snapshot: null-testcase-0
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Detected error for Snapshot: null-testcase-0
+[percy] Failure: Upload snapshot failure
+[percy] Failure Reason: Some snapshot or component uploads failed.
+[percy] Suggestion: Snapshot Error: null-testcase-0: 
+ [] 
+
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/common-issue/common-errors/upload-snapshot-failure
+[percy] Snapshot taken: null-testcase-1
+[percy] Encountered an error uploading snapshot: null-testcase-1
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Detected error for Snapshot: null-testcase-1
+[percy] Failure: Upload snapshot failure
+[percy] Failure Reason: Some snapshot or component uploads failed.
+[percy] Suggestion: Snapshot Error: null-testcase-1: 
+ [] 
+
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/common-issue/common-errors/upload-snapshot-failure
+[percy] Snapshot taken: com.Hubtel.Car_Insurance.Car_Insurance-carInsurance-testcase-0
+[percy] Snapshot taken: com.Hubtel.Car_Insurance.Car_Insurance-carInsurance-testcase-1
+[percy] Error: Cannot verify until tile is uploaded (sha: 8a3aaafc94162d15ac2f5b094dbd22b5340181b7b7ac28125270404ec014490d)
+[percy] Snapshot taken: null-testcase-0
+[percy] Encountered an error uploading snapshot: null-testcase-0
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Snapshot taken: null-testcase-1
+[percy] Detected error for Snapshot: null-testcase-0
+[percy] Failure: Upload snapshot failure
+[percy] Failure Reason: Some snapshot or component uploads failed.
+[percy] Suggestion: Snapshot Error: null-testcase-0: 
+ [] 
+
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/common-issue/common-errors/upload-snapshot-failure
+[percy] Encountered an error uploading snapshot: null-testcase-1
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Detected error for Snapshot: null-testcase-1
+[percy] Failure: Upload snapshot failure
+[percy] Failure Reason: Some snapshot or component uploads failed.
+[percy] Suggestion: Snapshot Error: null-testcase-1: 
+ [] 
+
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/common-issue/common-errors/upload-snapshot-failure
+[percy] Snapshot taken: com.Hubtel.Homepage.HomePageAndroid-HomePage-testcase-0
+[percy] Snapshot taken: com.Hubtel.Homepage.HomePageAndroid-HomePage-testcase-1
+[percy] Error: Cannot verify until tile is uploaded (sha: d8c8181f889a2fcdf6afa87df4a20f12dbb0ecd6291bc5bb5ddd678b7e54abf1)
+[percy] Snapshot taken: null-testcase-0
+[percy] Encountered an error uploading snapshot: null-testcase-0
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Detected error for Snapshot: null-testcase-0
+[percy] Failure: Upload snapshot failure
+[percy] Failure Reason: Some snapshot or component uploads failed.
+[percy] Suggestion: Snapshot Error: null-testcase-0: 
+ [] 
+
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/common-issue/common-errors/upload-snapshot-failure
+[percy] Snapshot taken: null-testcase-1
+[percy] Encountered an error uploading snapshot: null-testcase-1
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Detected error for Snapshot: null-testcase-1
+[percy] Failure: Upload snapshot failure
+[percy] Failure Reason: Some snapshot or component uploads failed.
+[percy] Suggestion: Snapshot Error: null-testcase-1: 
+ [] 
+
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/common-issue/common-errors/upload-snapshot-failure
+[percy] Snapshot taken: com.Hubtel.PaidPolls.PaidPolls-paidPolls-testcase-0
+[percy] Snapshot taken: com.Hubtel.PaidPolls.PaidPolls-paidPolls-testcase-1
+[percy] Snapshot taken: null-testcase-0
+[percy] Encountered an error uploading snapshot: null-testcase-0
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Detected error for Snapshot: null-testcase-0
+[percy] Failure: Upload snapshot failure
+[percy] Failure Reason: Some snapshot or component uploads failed.
+[percy] Suggestion: Snapshot Error: null-testcase-0: 
+ [] 
+
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/common-issue/common-errors/upload-snapshot-failure
+[percy] Snapshot taken: null-testcase-1
+[percy] Encountered an error uploading snapshot: null-testcase-1
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Detected error for Snapshot: null-testcase-1
+[percy] Failure: Upload snapshot failure
+[percy] Failure Reason: Some snapshot or component uploads failed.
+[percy] Suggestion: Snapshot Error: null-testcase-1: 
+ [] 
+
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/common-issue/common-errors/upload-snapshot-failure
+[percy] Snapshot taken: com.Hubtel.ADB.InternetDataAndroid-Internet_Data-testcase-0
+[percy] Snapshot taken: com.Hubtel.ADB.InternetDataAndroid-Internet_Data-testcase-1
+[percy] Error: Cannot verify until tile is uploaded (sha: 7ca7dafc2c66e1208704242cf00de34c18d98386ce084701b00f23ac7478b201)
+[percy] Snapshot taken: null-testcase-0
+[percy] Encountered an error uploading snapshot: null-testcase-0
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Snapshot taken: null-testcase-1
+[percy] Encountered an error uploading snapshot: null-testcase-1
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Snapshot taken: com.Hubtel.ADB.AirtimeAndroid-Airtime-testcase-0
+[percy] Snapshot taken: com.Hubtel.ADB.AirtimeAndroid-Airtime-testcase-1
+[percy] Error: Cannot verify until tile is uploaded (sha: da3733452cdf52191bfa458f1496cb7ef3a82be8285046f09c5ab7fce11088b4)
+[percy] Snapshot taken: null-testcase-0
+[percy] Encountered an error uploading snapshot: null-testcase-0
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Snapshot taken: null-testcase-1
+[percy] Encountered an error uploading snapshot: null-testcase-1
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Snapshot taken: com.Hubtel.Send_Money.Send_MoneyAndroid-sendMoney-testcase-0
+[percy] Snapshot taken: com.Hubtel.Send_Money.Send_MoneyAndroid-sendMoney-testcase-1
+[percy] Snapshot taken: null-testcase-0
+[percy] Encountered an error uploading snapshot: null-testcase-0
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Snapshot taken: null-testcase-1
+[percy] Encountered an error uploading snapshot: null-testcase-1
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Snapshot taken: com.Hubtel.Event_Ticket.eventTicket-EventTicket-testcase-0
+[percy] Error: Cannot verify until tile is uploaded (sha: 7b90b0a8079f2306254d5131290a58da8f78cca05c512d3b1c4222ea39b6811c)
+[percy] Snapshot taken: com.Hubtel.Event_Ticket.eventTicket-EventTicket-testcase-1
+[percy] Error: Cannot verify until tile is uploaded (sha: 802e76b743da8f760f26dd8161ddb7b6c4ce4ae59fe227943ff5f326315849bb)
+[percy] Snapshot taken: null-testcase-0
+[percy] Encountered an error uploading snapshot: null-testcase-0
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Snapshot taken: null-testcase-1
+[percy] Encountered an error uploading snapshot: null-testcase-1
+[percy] Error: A screenshot with the same name was uploaded before from the same device -- All screenshots with same name should come from unique devices.
+[percy] Snapshot taken: com.Hubtel.Log_Out.logOut-LogOut-testcase-0
+[percy] Error: Cannot verify until tile is uploaded (sha: c6bba06b661ce75ccef63cead4ca5cc2fdf5904f4f4d21410af0e6d48bfc08d0)
+[percy] Snapshot taken: com.Hubtel.Log_Out.logOut-LogOut-testcase-1
+[percy] Finalized build #10: https://percy.io/c00683c8/Hubtel-App-Test-Sample/builds/37066603
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 37066603_build_37066603_cli_4b361fe36dfbf6be6e484de542984c0dd614b25c
