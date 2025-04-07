@@ -1,11 +1,16 @@
 version: 0.2
 
 phases:
+  install:
+    runtime-versions:
+      nodejs: 18
+    commands:
+      - npm ci  # or `npm install` if you prefer
   build:
     commands:
-      - chmod +x ./gradlew
-      - ./gradlew assembleDebug
+      - echo "Starting Appium tests..."
+      - npm test  # or whatever command runs your Appium suite
 artifacts:
   files:
-     - './android/app/build/outputs/**/*.apk'
+    - 'results/**/*'  # adjust based on your actual test output location
   discard-paths: yes
