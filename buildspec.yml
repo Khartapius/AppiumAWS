@@ -5,20 +5,17 @@ phases:
     runtime-versions:
       nodejs: 18
     commands:
-      - apt-get update
-      - apt-get install -y xvfb
-      - Xvfb :99 -ac &
-      - export DISPLAY=:99
-      - npm ci
+      - echo "Installing Node.js dependencies..."
+      - npm ci  # Or npm install, if you prefer
 
   build:
     commands:
       - echo "Installing Maven dependencies (skipping tests)..."
       - mvn clean install -DskipTests -U
-      - echo "Starting Appium tests..."
-      - npm test
+      - echo "Running Appium tests..."
+      - npm test  # This runs your test suite targeting the cloud provider
 
 artifacts:
   files:
-    - 'results/**/*'
+    - 'results/**/*'  # Adjust if your test outputs go somewhere else
   discard-paths: yes
