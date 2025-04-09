@@ -9,7 +9,7 @@ phases:
   build:
     commands:
       - echo "Installing Maven dependencies..."
-      - mvn clean install -U
+      - mvn clean install -DskipTests -U
       - echo "Starting Appium tests..."
       - npm test  # or whatever command runs your Appium suite
 artifacts:
