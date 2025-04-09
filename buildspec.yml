@@ -8,6 +8,8 @@ phases:
       - npm ci  # or `npm install` if you prefer
   build:
     commands:
+      - echo "Installing Maven dependencies..."
+      - mvn clean install -U
       - echo "Starting Appium tests..."
       - npm test  # or whatever command runs your Appium suite
 artifacts:
