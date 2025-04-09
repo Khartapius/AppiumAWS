@@ -5,14 +5,20 @@ phases:
     runtime-versions:
       nodejs: 18
     commands:
-      - npm ci  # or `npm install` if you prefer
+      - apt-get update
+      - apt-get install -y xvfb
+      - Xvfb :99 -ac &
+      - export DISPLAY=:99
+      - npm ci
+
   build:
     commands:
-      - echo "Installing Maven dependencies..."
+      - echo "Installing Maven dependencies (skipping tests)..."
       - mvn clean install -DskipTests -U
       - echo "Starting Appium tests..."
-      - npm test  # or whatever command runs your Appium suite
+      - npm test
+
 artifacts:
   files:
-    - 'results/**/*'  # adjust based on your actual test output location
+    - 'results/**/*'
   discard-paths: yes
