@@ -29,9 +29,7 @@
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.7.0</version>
-    <!-- Remove this line:
-  <scope>test</scope>
-  -->
+    <scope>test</scope>
   </dependency>
 
   <!-- Selenium (often needed with Appium) -->
