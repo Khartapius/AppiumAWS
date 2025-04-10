@@ -165,7 +165,7 @@
                         <artifactId>maven-surefire-plugin</artifactId>
                         <version>3.2.5</version>
                         <configuration>
-                            <testSourceDirectory>src/test/java/com/Hubtel/</testSourceDirectory>
+                            <testSourceDirectory>src/test/java/com/Hubtel/ADB</testSourceDirectory>
                             <includes>
                               <include>**/*Android.java</include>
                             </includes>
